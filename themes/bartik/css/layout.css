@@ -98,3 +98,18 @@ body,
   width: 940px;
   min-width: 920px;
 }
+
+/*CHRIS*/
+.node.node-projects {
+  display: inline-block;
+  float:left;
+  width: 45%;
+  clear: both;
+}
+
+.node.node-contributor {
+  display: inline-block;
+  float:right;
+  width: 45%;
+  clear: right;
+}
